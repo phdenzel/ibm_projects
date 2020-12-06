@@ -12,6 +12,9 @@ pydotplus = "*"
 matplotlib = "*"
 seaborn = "*"
 graphviz = "*"
+tensorflow = "*"
+h5py = "*"
+keras = "*"
 
 [dev-packages]
 jupyterlab = "*"
