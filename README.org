@@ -1,3 +1,9 @@
 #+TITLE: IBM Watson Studio projects
 #+AUTHOR: phdenzel
 
+These are some of the projects on my IBM cloud account, but adjusted
+to run on my local machine (which has a slightly more powerful CPU and
+GPU) in a Python 3.8 environment.
+
+- Machine Learning with Python: [[./mlwpy_project.ipynb][mlwpy_project.ipynb]]
+- Deep Learning & Neural Networks with Keras: [[./dnnkeras_project.ipynb][dnnkeras_project.ipynb]]
