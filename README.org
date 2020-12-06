@@ -7,3 +7,15 @@ GPU) in a Python 3.8 environment.
 
 - Machine Learning with Python: [[./mlwpy_project.ipynb][mlwpy_project.ipynb]]
 - Deep Learning & Neural Networks with Keras: [[./dnnkeras_project.ipynb][dnnkeras_project.ipynb]]
+
+
+*** Install
+If you haven't yet installed ~pipenv~, first use
+#+BEGIN_SRC shell
+pip install pipenv
+#+END_SRC
+
+Then, to install the virtual environment use
+#+BEGIN_SRC shell
+pipenv install
+#+END_SRC
