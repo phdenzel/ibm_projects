@@ -15,6 +15,7 @@ graphviz = "*"
 tensorflow = "*"
 h5py = "*"
 keras = "*"
+torch = "*"
 
 [dev-packages]
 jupyterlab = "*"
